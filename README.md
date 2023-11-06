@@ -9,6 +9,6 @@ Anbei befinden sich:
 - Studienunterlagen:
   In diesem Ordner befinden sich die Einverständniserklärung und die Datei "Alle_Bedingungen_Reihenfolge"
 - die Rohdaten:
-  Hier befinden sich die Rohdaten zur Performance-Log-Datei (Coin, Gegner, Spielzeit), Reaktion-Log-Datei (Reaktionszeit, Fehlerrate) und des qualitativen Fragebogens
+  Hier befinden sich die Rohdaten zur Performance-Log-Datei (Coin, Gegner, Spielzeit), Reaction-Log-Datei (Reaktionszeit, Fehlerrate) und des qualitativen Fragebogens
 - die Analyseskripte:
   
